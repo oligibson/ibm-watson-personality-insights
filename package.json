@@ -36,5 +36,9 @@
   },
   "scripts": {
     "start": "node app.js"
+  },
+  "devDependencies": {
+    "jasmine": "^2.4.1",
+    "supertest": "^2.0.0"
   }
 }
