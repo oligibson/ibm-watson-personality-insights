@@ -2,7 +2,7 @@ var request = require("supertest");
 var app = require('../app.js');
 
 
-describe("Hello World Server", function() {
+describe("Server Test", function() {
 
     describe("GET /", function() {
         it("returns status code 200", function(done) {
